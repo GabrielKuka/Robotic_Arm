@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue2">#19FCDA</color>
+    <color name="blue25">#D9F7F2</color>
+    <color name="grey05">#ACA899</color>
+    <color name="orange4">#F7BE45</color>
+    <color name="orange5">#F7D896</color>
+    <color name="white1">#FFFFFF</color>
+    <color name="white2">#DDDDDD</color>
+    <color name="yellow1">#F9E60E</color>
+    <color name="yellow2">#F9F89D</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_elevation">10dp</dimen>
+    <dimen name="button_press_elevation">15dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="wh">80dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Robotic Arm Controller</string>
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="credits">Powered by Gabriel Kuka</string>
+    <string name="ctrlA">Control The Arm</string>
+    <string name="dc">Disconnect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="down1">Shoulder ▼</string>
+    <string name="down2">▼ Wrist</string>
+    <string name="hape">Open</string>
+    <string name="hello">Hello world!</string>
+    <string name="initCon">Initiating connection</string>
+    <string name="left1">◄ Base</string>
+    <string name="left2">◄ Elbow</string>
+    <string name="mbylle">Close</string>
+    <string name="off">grab</string>
+    <string name="on">release</string>
+    <string name="pD">Initiating connection.</string>
+    <string name="right1">Base ►</string>
+    <string name="right2">Elbow ►</string>
+    <string name="up1">▲
+	   Shoulder</string>
+    <string name="up2">▲    
+	     Wrist</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Robotic Arm Controller</string>
+    <string name="hello">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="credits">Powered by Gabriel Kuka</string>
+	<string name="pD">Initiating connection.</string>
+	<string name="ctrlA">Control The Arm</string>
+	<string name="dc">Disconnect</string>
+	<string name="left1">◄ Base</string>
+	<string name="right1">Base ►</string>
+	<string name="left2">◄ Elbow</string>
+	<string name="right2">Elbow ►</string>
+	<string name="up1">▲
+	   Shoulder</string>
+	<string name="up2">▲    
+	     Wrist</string>   
+	<string name="down1">Shoulder ▼</string>
+	<string name="down2">▼ Wrist</string>
+	<string name="on">release</string>
+	<string name="off">grab</string>
+	<string name="mbylle">Close</string>
+	<string name="hape">Open</string>
+	<string name="initCon">Initiating connection</string>
+
+	<string name="connected">Connected</string>
+	<string name="disconnected">Disconnected</string>
+
+	<string name="connect">Connect</string>
+	<string name="disconnect">Disconnect</string>
+
+</resources>

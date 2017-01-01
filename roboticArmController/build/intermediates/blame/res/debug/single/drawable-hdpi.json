@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
+        "source": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\appicon.png",
+        "source": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\src\\main\\res\\drawable-hdpi\\appicon.png"
+    }
+]

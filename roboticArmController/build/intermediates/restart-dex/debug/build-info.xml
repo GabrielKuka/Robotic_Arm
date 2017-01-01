@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="16404053865223"
+    token="5276332773611752977"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="174" />
+    <task
+        name="instant-run-dex"
+        duration="700" />
+    <task
+        name="instant-run-transform"
+        duration="47" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="14332102709346"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\outputs\apk\roboticArmController-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="16340702373577"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="16404053865223"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
