@@ -18,7 +18,19 @@ android {
     }
 }
 
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
 dependencies {
-    compile project(':croutonlib')
     compile 'com.android.support:support-v4:22.2.1'
+    compile'de.keyboardsurfer.android.widget:crouton:1.8.5@aar'
+
+
 }

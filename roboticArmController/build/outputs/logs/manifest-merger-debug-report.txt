@@ -57,15 +57,10 @@ ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmControll
 uses-sdk
 INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v4:22.2.1] F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\exploded-aar\de.keyboardsurfer.android.widget\crouton\1.8.5\AndroidManifest.xml:22:5-24:41
 	android:targetSdkVersion
 		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
 		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
 		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:2:1-30:12 reason: de.keyboardsurfer.mobile.app.android.widget.crouton has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:2:1-30:12 reason: de.keyboardsurfer.mobile.app.android.widget.crouton has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:2:1-30:12 reason: de.keyboardsurfer.mobile.app.android.widget.crouton requested WRITE_EXTERNAL_STORAGE
