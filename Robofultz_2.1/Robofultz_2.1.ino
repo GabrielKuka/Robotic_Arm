@@ -35,7 +35,6 @@ int gripper_pos_temp = 60;
 //////// Other variables ////////
 char data;
 int pos;
-const int BAUD_RATE = 9600; 
 
 void checkServoAndChangeDegree(){
   switch(data){
@@ -78,7 +77,7 @@ void setup() {
 
 void initialize(){
   
-   Serial.begin(BAUD_RATE); // <- speed of signal transmission
+   Serial.begin(9600); // <- speed of signal transmission
 
   //////// Attach servos to specific pins ////////
    servoShoulder.attach(2);
