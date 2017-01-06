@@ -21,3 +21,9 @@
 ![robotic arm at lab 2](https://cloud.githubusercontent.com/assets/17888328/21582528/70e559d6-d05c-11e6-88cb-18763fd4f6ef.jpg)
 
 ###**The initial version**
+
+![robotic arm at first](https://cloud.githubusercontent.com/assets/17888328/21725889/90aaebc8-d43a-11e6-8e4c-94106bd2acf4.jpg)
+
+![picture1](https://cloud.githubusercontent.com/assets/17888328/21725887/90a37d20-d43a-11e6-8c85-de2f7b9e8eab.jpg)
+
+![picture2](https://cloud.githubusercontent.com/assets/17888328/21725888/90a5c86e-d43a-11e6-943f-330908596d96.jpg)
