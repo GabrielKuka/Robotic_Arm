@@ -1,4 +1,4 @@
-#Sun Jan 01 18:57:20 CET 2017
+#Tue Jan 03 22:52:28 CET 2017
 base.0=F\:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8b4bd16dd28e8739f2391e00d71ce01587c27cc1
 renamed.1=classes2.dex
 renamed.0=classes.dex

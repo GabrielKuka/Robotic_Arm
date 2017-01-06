@@ -5,47 +5,33 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="16404053865223"
+    timestamp="184521919386548"
     token="5276332773611752977"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="174" />
+        duration="1694" />
     <task
         name="instant-run-dex"
-        duration="700" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="47" />
+        duration="250" />
     <task
         name="verifier"
-        duration="7" />
+        duration="77" />
 
     <artifact
-        location="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\outputs\apk\roboticArmController-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="14332102709346"
+        timestamp="184521919386548"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\outputs\apk\roboticArmController-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="16340702373577"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="16404053865223"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

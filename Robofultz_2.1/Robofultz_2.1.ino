@@ -7,7 +7,7 @@
                                                                     ******************************************************
 
                                                                     ~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`
-                                                                                  Code to control Robofultz
+                                                                             Arduino code to cotrol robotic arm
                                                                     ~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`~`
 Author: Gabriel Kuka
 Robotic group: Robofultz

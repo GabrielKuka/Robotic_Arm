@@ -34,8 +34,17 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="7f7147af6e6af58a567c4ac1705760c15acf2423">
+        sha1="4ac3afb77142468c0ce527841228e997a9c61ff9">
         <dex dex="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8b4bd16dd28e8739f2391e00d71ce01587c27cc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\exploded-aar\de.keyboardsurfer.android.widget\crouton\1.8.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b81c788c5f175f94ddaac2f65e5d1726371e0963">
+        <dex dex="F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\transforms\dex\debug\folders\1000\10\de.keyboardsurfer.android.widget-crouton-1.8.5_7fa72526be27d8813ee4c642bcae715c840effa0\classes.dex" />
     </item>
     <item
         is-multidex="true"
