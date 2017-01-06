@@ -13,7 +13,7 @@
 **Time period: 15/11/2015 - 20/3/2016**
 
 ####**Description:**
-The robotic arm is made in the laboratory of Harry T. Fultz Institute. It is a fully 3D printed device. The arm is a prototype of industrial robotics arm which improvises basic pre-programmed movements. It can be controlled with a smartphone device that runs Android OS or it can move independently to catch and release objects based on certain algorithmic patterns.
+The robotic arm is made in the laboratory of Harry T. Fultz Institute. It is a fully 3D printed device. The arm is a prototype of industrial robotic arms which improvises basic pre-programmed movements. It can be controlled with a smartphone device that runs Android OS or it can move independently to catch and release objects based on certain algorithmic patterns.
 
 ![me and robotic arm](https://cloud.githubusercontent.com/assets/17888328/21582524/6be50382-d05c-11e6-8862-44ae62c02685.jpg)
 
