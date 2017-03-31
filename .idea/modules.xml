@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RoboticArmController.iml" filepath="$PROJECT_DIR$/RoboticArmController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robotic_Arm_Old.iml" filepath="$PROJECT_DIR$/Robotic_Arm_Old.iml" />
       <module fileurl="file://$PROJECT_DIR$/croutonlib/croutonlib.iml" filepath="$PROJECT_DIR$/croutonlib/croutonlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/roboticArmController/roboticArmController.iml" filepath="$PROJECT_DIR$/roboticArmController/roboticArmController.iml" />
     </modules>

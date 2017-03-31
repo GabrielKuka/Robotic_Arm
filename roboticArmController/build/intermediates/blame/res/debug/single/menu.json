@@ -2,5 +2,9 @@
     {
         "merged": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\src\\main\\res\\menu\\main.xml"
     }
 ]

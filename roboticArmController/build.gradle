@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion "24.0.1"
+    compileSdkVersion 25
+    buildToolsVersion '25.0.2'
 
     defaultConfig {
         applicationId "com.gabriel.roboticarmcontroller"
         minSdkVersion 21
-        targetSdkVersion 23
+        targetSdkVersion 25
     }
 
     buildTypes {
@@ -29,8 +29,8 @@ repositories {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:22.2.1'
+    compile 'com.android.support:support-v4:25.3.1'
     compile'de.keyboardsurfer.android.widget:crouton:1.8.5@aar'
-
+    compile 'com.yarolegovich:lovely-dialog:1.0.7'
 
 }

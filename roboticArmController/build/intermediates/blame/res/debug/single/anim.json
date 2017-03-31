@@ -1,6 +1,50 @@
 [
     {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
         "merged": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\anim.xml",
         "source": "F:\\Data\\AndroidStudioProjects\\RoboticArmController\\roboticArmController\\src\\main\\res\\anim\\anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\anim.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\src\\main\\res\\anim\\anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel Kuka\\AndroidStudioProjects\\Robotic_Arm_Old\\roboticArmController\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Gabriel Kuka\\.android\\build-cache\\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\\output\\res\\anim\\abc_slide_in_top.xml"
     }
 ]

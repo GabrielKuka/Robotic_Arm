@@ -1,66 +1,96 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:3:5-47
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.BLUETOOTH
-ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:8:5-68
+ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:8:5-68
 	android:name
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:8:22-65
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:8:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:9:5-74
+ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:9:5-74
 	android:name
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:9:22-71
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:9:22-71
 application
-ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:11:5-28:19
-MERGED from [com.android.support:support-v4:22.2.1] F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:11:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Gabriel Kuka\.android\build-cache\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\1101e86d2371c044647a0b75a71de6d8fbe00c2a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\915ef33da7fb9fdc1883a705e10b62cdca2f20a4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\c6445606caf3769deda771d0874dd89e5e5fc4c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\b1839b10bb4b35213854221da0bf8ca94415e542\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\b3fc445c3e22cd48144ff92f03036a91ba99d66a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Gabriel Kuka\.android\build-cache\38623d54a783bd2ac8406b09803842849221e668\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Gabriel Kuka\.android\build-cache\a5adb0906454fd866ebf1e52932eb8c5b97625b6\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\e8a31784d8b98b5829f4c938761b7ecb12b9b42e\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:14:9-41
 	android:allowBackup
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:13:9-41
 	android:theme
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:15:9-54
 activity#com.gabriel.roboticarmcontroller.Main
-ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:16:9-26:20
+ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:16:9-26:20
 	android:screenOrientation
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:19:13-49
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:19:13-49
 	android:label
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:20:13-45
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:20:13-45
 	android:configChanges
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:17:13-59
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:17:13-59
 	android:name
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:18:13-33
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:18:13-33
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml:24:27-74
 uses-sdk
-INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:22.2.1] F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\build\intermediates\exploded-aar\de.keyboardsurfer.android.widget\crouton\1.8.5\AndroidManifest.xml:22:5-24:41
+INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] C:\Users\Gabriel Kuka\.android\build-cache\9abda73291596c9ad76ef0345f0b4267d6ae47d4\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.yarolegovich:lovely-dialog:1.0.7] C:\Users\Gabriel Kuka\.android\build-cache\cf27ca83311fa6f9968f936d1c2836508142d29e\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Gabriel Kuka\.android\build-cache\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\1101e86d2371c044647a0b75a71de6d8fbe00c2a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\915ef33da7fb9fdc1883a705e10b62cdca2f20a4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\c6445606caf3769deda771d0874dd89e5e5fc4c2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\b1839b10bb4b35213854221da0bf8ca94415e542\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\b3fc445c3e22cd48144ff92f03036a91ba99d66a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Gabriel Kuka\.android\build-cache\38623d54a783bd2ac8406b09803842849221e668\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Gabriel Kuka\.android\build-cache\a5adb0906454fd866ebf1e52932eb8c5b97625b6\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\e8a31784d8b98b5829f4c938761b7ecb12b9b42e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Gabriel Kuka\.android\build-cache\ddbb2c24b7ae449d653c3a06ea88ef67151ba964\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
-		INJECTED from F:\Data\AndroidStudioProjects\RoboticArmController\roboticArmController\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel Kuka\AndroidStudioProjects\Robotic_Arm_Old\roboticArmController\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\1101e86d2371c044647a0b75a71de6d8fbe00c2a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\915ef33da7fb9fdc1883a705e10b62cdca2f20a4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\c6445606caf3769deda771d0874dd89e5e5fc4c2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\b1839b10bb4b35213854221da0bf8ca94415e542\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\b3fc445c3e22cd48144ff92f03036a91ba99d66a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\e8a31784d8b98b5829f4c938761b7ecb12b9b42e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\1101e86d2371c044647a0b75a71de6d8fbe00c2a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Gabriel Kuka\.android\build-cache\1101e86d2371c044647a0b75a71de6d8fbe00c2a\output\AndroidManifest.xml:26:9-47
