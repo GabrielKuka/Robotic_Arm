@@ -1,6 +1,6 @@
 # Robotic Arm
 
-## This project was done in cooperation with my team: Robofultz
+## This project was a team work: Robofultz
 
 ###**Team members:**
 
