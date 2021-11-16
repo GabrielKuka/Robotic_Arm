@@ -6,9 +6,9 @@
 
 * Gabriel Kuka (Programmer)
 * Sindy Kola (Designer)
-* Kamber Vogli (Assistant)
-* Devid Dermyshi (Assistant) (Team Leader)
-* Nesti Haxha (electronic circuitry)
+* Kamber Vogli (Programmer)
+* Devid Dermyshi (circuit design)
+* Nesti Haxha (circuit design)
 
 **Time period: 15/11/2015 - 20/3/2016**
 
